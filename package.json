@@ -18,7 +18,7 @@
     "laravel-elixir-vue-2": "^0.2.0",
     "laravel-elixir-webpack-official": "^1.0.2",
     "lodash": "^4.17.13",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "swagger-to-md": "^1.0.0",
     "vue": "^2.0.1",
     "vue-resource": "^1.0.3",
